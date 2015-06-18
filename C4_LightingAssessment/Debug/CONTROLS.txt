@@ -1,0 +1,28 @@
+Camera:
+	W - forward
+	S - backward
+	A - left
+	D - right
+	Q - up
+	E - down
+	UP key - rotate up
+	DOWN key - rotate down
+	LEFT key - rotate left
+	RIGHT key - rotate right
+	
+Torch and Light:
+	I - forward
+	K - backward
+	J - left
+	L - right
+	U - up
+	P - down
+	
+	Z, X - on/off torch
+	
+	T - rotate forward
+	G - rotate backward
+	F - rotate left
+	H - rotate right
+	R - rotate on y-axis
+	Y - rotate on y axis
