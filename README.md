@@ -1,6 +1,6 @@
 # 3D_Scene
 ###Requirements
- Markup :	* Create a scene with the following components
+ Markup : * Create a scene with the following components
  		 *A torch/flashlight (hint see "spotlights" here)
   		  *The torch should be moveable by the user (up/down, left/right, back/forward)
 		  *The torch should be rotatable by the user (rotate around local x/y/z axis)
