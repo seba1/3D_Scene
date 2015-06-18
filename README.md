@@ -14,3 +14,7 @@
     Place one spinning die in the scene. Use only ONE texture for the die.
     Recreate a model of this bottle and liquid in the scene. Bottle must include a label. Not that the label must does not go all the way around the bottle.
 	All surfaces and objects should be rendered correctly with lighting. Scene should contain enough ambient light to recognise objects when the torch is switched off.
+ Markup : * Bullet list
+           * Nested bullet
+            * Sub-nested bullet etc
+          * Bullet list item 2
