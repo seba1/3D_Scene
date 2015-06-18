@@ -1,12 +1,12 @@
 # 3D_Scene
 ###Requirements
  * Create a scene with the following components
-  *A torch/flashlight (hint see "spotlights" here)
-    *The torch should be moveable by the user (up/down, left/right, back/forward)
-    *The torch should be rotatable by the user (rotate around local x/y/z axis)
-*The torch should be contain a spotlight pointing in the same direction as the torch
-*The user should be able to switch the light on/off
-		  *Body of torch can be a simple object (e.g. cylinder)
+  * A torch/flashlight (hint see "spotlights" here)
+  * The torch should be moveable by the user (up/down, left/right, back/forward)
+  * The torch should be rotatable by the user (rotate around local x/y/z axis)
+  * The torch should be contain a spotlight pointing in the same direction as the torch
+  * The user should be able to switch the light on/off
+  * Body of torch can be a simple object (e.g. cylinder)
     User should be able to move camera around the scene and view the scene from various angles
 		The camera should be moveable by the user (up/down, left/right, back/forward)
 		The camera should be rotatable by the user (rotate around local x/y/z axis)
